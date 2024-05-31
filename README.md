@@ -1,2 +1,1 @@
-# Capstone-Project
-Research poster for the senior data science capstone at UCSB
+Identifying Optimal Case-Onset Points for Early Detection of Influenza-like Illness
